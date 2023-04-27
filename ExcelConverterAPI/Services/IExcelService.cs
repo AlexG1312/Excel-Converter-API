@@ -1,5 +1,4 @@
-﻿using System;
-namespace ExcelConverterAPI.Services
+﻿namespace ExcelConverterAPI.Services
 {
 	public interface IExcelService
 	{
