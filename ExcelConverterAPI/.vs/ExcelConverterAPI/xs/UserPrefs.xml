@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{FCCDD39F-ACA7-4D27-8F51-C1F0DB41E1F6}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcelConverterAPI/Services/ExcelService.cs">
+    <Files>
+      <File FileName="ExcelConverterAPI/Controllers/ConvertControler.cs" Line="30" Column="1" />
+      <File FileName="ExcelConverterAPI/Services/IExcelService.cs" Line="10" Column="1" />
+      <File FileName="ExcelConverterAPI/Services/ExcelService.cs" Line="18" Column="1" />
+      <File FileName="ExcelConverterAPI/Program.cs" Line="21" Column="18" />
+      <File FileName="ExcelConverterTests/ServiceTests.cs" Line="20" Column="23" />
+      <File FileName="ExcelConverterTests/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExcelConverterAPI" expanded="True">
+            <Node name="ExcelConverterAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="ExcelService.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="ExcelConverterTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>columnNumber</Value>
+          <Value>remainder</Value>
+          <Value>title</Value>
+          <Value>(int)title</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ExcelConverterAPI" expanded="True">
+            <Node name="ExcelConverterTests" expanded="True">
+              <Node name="ExcelConverterTests" expanded="True">
+                <Node name="ServiceTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExcelConverterAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ag088428/Desktop/Trainings/ExcelConverterAPI/ExcelConverterTests/ServiceTests.cs" relfile="ExcelConverterTests/ServiceTests.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
